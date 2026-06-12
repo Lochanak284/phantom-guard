@@ -1,0 +1,8 @@
+venv/
+.env
+firebase-key.json
+evidence_files/
+__pycache__/
+*.pyc
+test_mongo.py
+test_pusher.py
